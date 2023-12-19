@@ -8,8 +8,3 @@ baris ke-7
 baris ke-8
 baris ke-9
 baris ke-10
-baris ke-11
-baris ke-12
-baris ke-13
-baris ke-14
-baris ke-15
