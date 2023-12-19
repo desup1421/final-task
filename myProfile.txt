@@ -1,3 +1,4 @@
 nama : Someone
 umur : 900
 pekerjaan: something
+dom: somewhere
