@@ -1,2 +1,10 @@
 baris pertama
 baris ke-2
+baris ke-3
+baris ke-4
+baris ke-5
+baris ke-6
+baris ke-7
+baris ke-8
+baris ke-9
+baris ke-10
